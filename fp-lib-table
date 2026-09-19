@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ADS1292IRSMT") (type "KiCad") (uri "${KIPRJMOD}/libs/ADS1292R.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,382 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "e647fee1-2d2c-49ca-b5f5-f00ba6c210e9")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 149.86 99.06)
+		(size 38.1 57.15)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3edebe16-73ce-4256-ba71-d0eaca665977")
+		(property "Sheetname" "07_storage_display"
+			(at 149.86 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "07_storage_display.kicad_sch"
+			(at 149.86 156.7946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cardiac"
+				(path "/e647fee1-2d2c-49ca-b5f5-f00ba6c210e9"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 205.74 99.06)
+		(size 45.72 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "50a7af2a-cc13-4797-939c-16bb8ef85ff3")
+		(property "Sheetname" "08_hmi"
+			(at 205.74 98.3484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "08_hmi.kicad_sch"
+			(at 205.74 147.9046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cardiac"
+				(path "/e647fee1-2d2c-49ca-b5f5-f00ba6c210e9"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 43.18)
+		(size 36.83 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7af51cd8-3281-4747-8501-26a7abe9e338")
+		(property "Sheetname" "02_power_isolated"
+			(at 165.1 42.4684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "02_power_isolated.kicad_sch"
+			(at 165.1 79.3246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cardiac"
+				(path "/e647fee1-2d2c-49ca-b5f5-f00ba6c210e9"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 223.52 43.18)
+		(size 39.37 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9b7cbdfc-8a11-4133-ab4d-771cf5c72760")
+		(property "Sheetname" "03_digital_isolators"
+			(at 223.52 42.4684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "03_digital_isolators.kicad_sch"
+			(at 223.52 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cardiac"
+				(path "/e647fee1-2d2c-49ca-b5f5-f00ba6c210e9"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 91.44)
+		(size 29.21 45.72)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bcb85cd1-815b-498b-b88f-f166477d6278")
+		(property "Sheetname" "04_afe_ads1292r"
+			(at 33.02 90.7284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04_afe_ads1292r.kicad_sch"
+			(at 33.02 137.7446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cardiac"
+				(path "/e647fee1-2d2c-49ca-b5f5-f00ba6c210e9"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 60.96 39.37)
+		(size 29.21 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c9d7b774-a991-48ed-a03f-cc75dbe00f45")
+		(property "Sheetname" "05_mcu_stm32f407"
+			(at 60.96 38.6584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "05_mcu_stm32f407.kicad_sch"
+			(at 60.96 72.9746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cardiac"
+				(path "/e647fee1-2d2c-49ca-b5f5-f00ba6c210e9"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 81.28 96.52)
+		(size 50.8 52.07)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e5792038-bd51-42ae-9706-57872559dc05")
+		(property "Sheetname" "06_esp32_wroom"
+			(at 81.28 95.8084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "06_esp32_wroom.kicad_sch"
+			(at 81.28 149.1746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cardiac"
+				(path "/e647fee1-2d2c-49ca-b5f5-f00ba6c210e9"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 40.64)
+		(size 36.83 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ed9f2312-b474-4b3c-b389-b23aa9c3ab2f")
+		(property "Sheetname" "01_power_digital"
+			(at 110.49 39.9284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01_power_digital.kicad_sch"
+			(at 110.49 75.5146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "cardiac"
+				(path "/e647fee1-2d2c-49ca-b5f5-f00ba6c210e9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

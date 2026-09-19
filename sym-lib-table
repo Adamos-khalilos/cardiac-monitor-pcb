@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ADS1292R") (type "KiCad") (uri "${KIPRJMOD}/libs/ADS1292IRSMT.kicad_sym") (options "") (descr ""))
+)
